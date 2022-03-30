@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AutoLayout-iOS13.xcodeproj">
+      location = "self:/Users/arthur/_git/edu-ios-lesson059/L059 - AutoLayout.xcodeproj">
    </FileRef>
 </Workspace>

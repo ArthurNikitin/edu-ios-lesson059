@@ -105,10 +105,13 @@
 					};
 				};
 			};
+<<<<<<< HEAD:AutoLayout-iOS13.xcodeproj/project.pbxproj
 <<<<<<< HEAD:L059 - AutoLayout.xcodeproj/project.pbxproj
 			buildConfigurationList = AD0C510A22C623E500AADC4D /* Build configuration list for PBXProject "L059 - AutoLayout" */;
 			compatibilityVersion = "Xcode 13.0";
 =======
+=======
+>>>>>>> parent of 47f8979 (temp):L059 - AutoLayout.xcodeproj/project.pbxproj
 			buildConfigurationList = AD0C510A22C623E500AADC4D /* Build configuration list for PBXProject "AutoLayout-iOS13" */;
 			compatibilityVersion = "Xcode 9.3";
 >>>>>>> parent of 47f8979 (temp):AutoLayout-iOS13.xcodeproj/project.pbxproj
